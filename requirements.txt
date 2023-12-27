@@ -34,3 +34,4 @@ tzdata==2023.3
 urllib3==1.26.15
 Werkzeug==2.2.0
 wget==3.2
+whitenoise==6.6.0
